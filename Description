@@ -1,0 +1,3 @@
+# Movie-Recommendation-System
+Developed a Movie Recommendation System that predicts customer behaviour and recommends personalized content to each user. 
+It recommends new movies which are relevant to users, based on their interests, movie ratings and watch history.
